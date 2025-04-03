@@ -8,7 +8,7 @@ from ultralytics import YOLO
 
 # 모델 로드
 model = YOLO('yolo11n.pt')
-
+123
 # Streamlit 레이아웃 설정
 st.set_page_config(layout="wide")
 st.title("✨YOLO 실시간 탐지 대시보드✨")# => 윈도우키  + ; => 특수문자 
