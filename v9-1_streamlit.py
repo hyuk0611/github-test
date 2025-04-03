@@ -17,9 +17,9 @@ st.title("✨YOLO 실시간 탐지 대시보드✨")# => 윈도우키  + ; => �
 cap = cv2.VideoCapture("http://210.99.70.120:1935/live/cctv001.stream/playlist.m3u8")
 
 #객체 참지 결과 저장 리스트
-
+##sasdasd
 detections = []
-
+print("sdasdsdsad")
 # 프레임, 차트 출력 공간
 frame_placeholder = st.empty()
 chart_placeholder = st.empty()
